@@ -1,0 +1,3 @@
+[submodule "calendar-demo"]
+	path = calendar-demo
+	url = https://github.com/CharlieRoot/jquery-calendar.git
